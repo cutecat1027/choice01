@@ -14,7 +14,7 @@ const STORY = [
       result:[
         {type:'dialogue',speaker:'MC',character:'mc',text:'Tôi không biết. Tôi đã không còn là con người của năm đó nữa, và cũng sẽ chẳng bao giờ rơi vào tình huống tương tự.'}]}
   ]},
-  {type:'divider'},
+  
   
 ];
 const root=document.getElementById('story');
